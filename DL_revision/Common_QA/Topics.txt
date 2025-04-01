@@ -1,0 +1,59 @@
+🔹 Fundamentals
+Types of ML: Supervised, Unsupervised, Semi-supervised, Reinforcement Learning
+Bias-Variance Tradeoff
+Underfitting vs Overfitting
+Train/Validation/Test splits, Cross-validation
+
+🔹 Core Algorithms
+Linear Regression
+Logistic Regression
+k-Nearest Neighbors
+Decision Trees and Random Forests
+Support Vector Machines (SVM)
+Naive Bayes
+Clustering (k-Means, DBSCAN, Hierarchical)
+PCA & Dimensionality Reduction
+
+🔹 Model Evaluation & Metrics
+Accuracy, Precision, Recall, F1 Score
+ROC Curve, AUC
+Confusion Matrix
+Regression metrics: MAE, MSE, RMSE, R²
+
+🔹 Optimization & Training
+Gradient Descent (and variants: SGD, Adam, etc.)
+Loss functions
+Regularization (L1/L2)
+Hyperparameter Tuning (Grid/Random Search, Bayesian Optimization)
+
+🔹 Feature Engineering
+One-hot encoding, Label encoding
+Feature scaling (Standardization/Normalization)
+Handling missing data
+Feature selection techniques
+
+🔹 Unsupervised Learning
+Clustering techniques
+Dimensionality Reduction (PCA, t-SNE, UMAP)
+Anomaly Detection
+
+🔹 Advanced Topics
+Ensemble Methods (Bagging, Boosting, Stacking)
+Neural Networks & Deep Learning basics
+Time Series Forecasting
+Recommendation Systems
+Transfer Learning
+Self-supervised Learning
+
+🔹 Tools & Libraries
+Scikit-learn
+Pandas, NumPy
+TensorFlow / PyTorch
+XGBoost / LightGBM
+
+🔹 Real-world ML
+MLOps: Model deployment, CI/CD
+Model interpretability (SHAP, LIME)
+Data drift & model monitoring
+Ethical AI & fairness
+

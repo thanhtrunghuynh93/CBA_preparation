@@ -1,0 +1,53 @@
+Types of ML: Supervised, Unsupervised, Semi-supervised, Reinforcement Learning
+Bias-Variance Tradeoff
+Underfitting vs Overfitting
+Train/Validation/Test splits, Cross-validation
+
+Supervised learning is a type of machine learning where the model is trained on labeled data, meaning each input comes with a corresponding correct output. 
+The model is trained to learn the mapping between input and output, thus it can be used to generate accurate prediction on unseen data. 
+
+Unsupervised learning is a type of machine learning where the model is trained on unlabeled data. The model is trained to detect the hidden pattern/structure, such as clusters, within the data. 
+Semi-supervised is a type of machine learning that uses a small amount of labeled data, combined with large amount of unlabeled data, to train the model. 
+E.g. sentiment analysis: train a classifier on the small labeled set, then use it to pseudo-label the rest and fine-tune the model. 
+
+Reinforcement Learning (RL) is a type of machine learning where an agent learns by interacting with an environment, using a reward-based feedback system. 
+The agent takes actions, receives rewards (or penalties), and learns to optimize its strategy over time.
+
+The bias-variance tradeoff is a key concept in machine learning that describes the balance between two sources of error that affect model performance:
+
+🔹 Bias
+Error due to overly simplistic assumptions in the model.
+High bias → model underfits (fails to capture patterns).
+Example: Using linear regression for non-linear data.
+
+🔹 Variance
+Error due to model sensitivity to small fluctuations in the training set.
+High variance → model overfits (memorizes noise).
+Example: Deep decision trees on small datasets.
+
+⚖️ The Tradeoff
+Low bias + high variance → overfitting
+High bias + low variance → underfitting
+The goal is to find the sweet spot with low total error (optimal balance).
+
+Underfitting: Underfitting occurs when a model is too simplistic or lacks sufficient training, 
+causing it to fail to capture the underlying patterns in the training data. As a result, it performs poorly on both the training and test datasets.
+Overfitting: Overfitting occurs when a model is too complex and fits the training data too closely, achieving very high performance on it, but failing to generalize well, which leads to poor performance on test data.
+
+Cross-validation is a technique for evaluating the performance of a machine learning model by splitting the data into multiple parts to ensure it generalizes well to unseen data.
+
+Regularization is a technique to prevent overfitting by penalizing large model coefficients.
+
+🔹 L1 Regularization (Lasso)
+Adds the absolute values of the coefficients to the loss function:
+Loss + λ * Σ|w|
+
+Encourages sparsity: tends to drive some weights to exactly zero (feature selection).
+
+🔹 L2 Regularization (Ridge)
+Adds the squared values of the coefficients:
+Loss + λ * Σw²
+
+Penalizes large weights, but does not zero them out—keeps all features but shrinks their influence.
+
+
