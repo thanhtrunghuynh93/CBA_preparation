@@ -11,14 +11,6 @@ Review ML/Deep Learning: Cover supervised/unsupervised learning, deep learning (
 Refresh NLP & CV: Transformers (BERT, GPT), NER, summarization, embeddings, vision models (ResNet, ViT).
 Explore Financial Services AI Use Cases: Credit scoring, fraud detection, customer segmentation, LTV prediction.
 
-
-
-
-
-
-
-
-
 Weeks 3–4: GenAI & Scalable AI Systems
 Hands-on GenAI Projects: RAG, Guardrails, fine-tuning open-source LLMs (LLaMA, Mistral, etc.).
 
