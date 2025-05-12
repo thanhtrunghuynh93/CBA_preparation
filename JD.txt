@@ -1,0 +1,45 @@
+You are determined to stay ahead of the latest technologies in Data Science! 
+We're one of the largest and most advanced Data Science practices in the country 
+Together we can build state-of-the-art Data Science models that power seamless experiences for millions of customers 
+Please note that we have two opportunities 
+  
+
+Do work that matters 
+
+As a Data Scientist within the Business Bank’s Customer, Channels and Data AI Centre of Excellence (AiCE), you will assist in the development, monitoring, implementation and management of models supporting our journey of transforming the practice of Business Banking across Australia. 
+
+From applying Generative AI to better support knowledge and decision management functions, to activating agent oriented AI design patterns to better automate and drive results, you will be familiar with the latest and most exciting patterns in AI and Data Science development that may support this mission objective. 
+
+See yourself in the team
+
+You will work closely with key business stakeholders in the Business Bank, from our front line segment colleagues, through to our top of house risk and controls functions, while navigating the full breadth of Business Bank product and financial services design and delivery functions. Your AI and Data Science perspective will be informed by your experience in the financial services or financial technology domains. 
+
+As a member of the Business Bank’s AI Centre of Excellence, you will be at the forefront of the application of Artificial Intelligence to drive decisions, optimise outcomes and improve financial performance, with Australia’s leading Business Bank, supporting Australia’s leading corporations, in Australia’s leading economic growth story. 
+
+You will have a passion for the Australian economy, the role of the private sector in driving economic growth and the opportunities for CBA to best assist and support Australian corporations grow and expand in the new AI and data driven economy. 
+
+We are seeking people who are: 
+
+Passionate about building market-leading commercial applications that utilize state-of-the-art generative AI techniques to improve work productivity and provide the best customer service! 
+Excited about tackling new, challenging business problems in AI. 
+Adept at using a combination of commercial and technical AI models to find unique solutions that add strategic value to the business. 
+Collaborative in nature, working with product teams, curious enough to solve real-world problems, and courageous in positively influencing senior stakeholders using cutting-edge AI solutions. 
+Natural leaders who enjoy mentoring team members using their technical expertise and fostering a positive and inclusive culture that promotes development and growth. 
+Constantly thinking outside the box and breaking boundaries to solve complex data science problems using generative AI methods. 
+We are also interested in hearing from people who: 
+
+Are experienced in applying cutting-edge AI techniques to large and unstructured data within a corporate environment.  
+Excited to deploy AI models into production. 
+Have a natural talent to educate, communicate and positively influence a diverse and large group of stakeholders and cross-functional teams.  
+Tech skills: 
+
+We use a broad range of tools, languages, and frameworks. While we don’t expect you to know them all, experience or exposure to generative AI, agents, AI, and machine learning will set you up for success in this role. 
+
+- Generative AI Hands-on Delivery Experience: Demonstrated hands-on experience as a senior data scientist, with successful applications of generative AI in production settings. 
+- Expertise in AI: Including prompt engineering, retrieval-augmented generation (RAG), design, safety guardrails, and frameworks like LangChain, LangGraph, and LlamaIndex. 
+- Cloud Platforms: Experience using AWS Bedrock, SageMaker, or Microsoft Azure OpenAI platforms. 
+- GenAI and AI Models: Demonstrated experience in developing, deploying, and monitoring generative AI and AI models on AWS infrastructure, including Bedrock, SageMaker, Knowledge Base, and OpenSearch. 
+- LLM Models: Proficiency in using large language models (LLMs) for various business applications. 
+- Agentic Workflow Frameworks: Experience with agentic workflow frameworks such as AutoGen, LangGraph, LlamaIndex, and LangChain. 
+- Machine Learning Experience: Expertise in designing and constructing machine learning models, including those developed by Hugging Face, covering feature engineering, model selection, hyperparameter tuning, model evaluation, and deployment of Machine Learning/AI models. 
+- Statistical Machine Learning and Big Data: Proficiency in statistical machine learning using Python and SQL for big data analysis. Experience in working with big data platforms such as Hadoop/HDFS, Omnia, Hive, and Spark. 
